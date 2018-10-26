@@ -1,1 +1,3 @@
-# coveralls-basic-example
+# Coveralls Basic Example
+
+[![Build Status](https://travis-ci.org/DespotOfMorea/coveralls-basic-example.svg?branch=master)](https://travis-ci.org/DespotOfMorea/coveralls-basic-example) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![Maintainability](https://api.codeclimate.com/v1/badges/6d8b2a7bced3f44c1aad/maintainability)](https://codeclimate.com/github/DespotOfMorea/coveralls-basic-example/maintainability) [![Coverage Status](https://coveralls.io/repos/github/DespotOfMorea/coveralls-basic-example/badge.svg?branch=master)](https://coveralls.io/github/DespotOfMorea/coveralls-basic-example?branch=master)
